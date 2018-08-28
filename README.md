@@ -1,5 +1,5 @@
 # UsefulJS - v.0.2
-
+A Beta Version.
 ## Updates
 + add urldata.js
 

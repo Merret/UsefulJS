@@ -5,7 +5,7 @@ A Beta Version.
 
 ## CDN
 ### All in One
-[JSDELIVR CDN](https://cdn.jsdelivr.net/combine/gh/Merret/UsefulJS@0.3/js/urldata.min.js,gh/Merret/UsefulJS@0.2/js/align.min.js,gh/Merret/UsefulJS@0.2/js/xhr.min.js)
+[JSDELIVR CDN](https://cdn.jsdelivr.net/combine/gh/Merret/UsefulJS@0.3/js/align.min.js,gh/Merret/UsefulJS@0.3/js/urldata.min.js,gh/Merret/UsefulJS@0.3/js/xhr.min.js)
 ### align.js
 [JSDELIVR CDN](https://cdn.jsdelivr.net/gh/Merret/UsefulJS@0.3/js/align.min.js)
 ### urldata.js

@@ -51,10 +51,7 @@ var xhr = (function () {
 		return anita;
 	}
 	
-	
-	var help = function() {
-		return "xhr.GET: xhr.GET(url)\nxhr.POST: xhr.POST(url, data, [ContentType='application/json'], [sync=false])\nxhr.PUT: xhr.PUT(url, data, [ContentType='application/json'], [sync=false])\nXHR.js is made by JacobLinCool\nGitHub: https://github.com/jacoblincool";
-	}
+	var help = "xhr.GET: xhr.GET(url)\nxhr.POST: xhr.POST(url, data, [ContentType='application/json'], [sync=false])\nxhr.PUT: xhr.PUT(url, data, [ContentType='application/json'], [sync=false])\nXHR.js is made by JacobLinCool\nGitHub: https://github.com/jacoblincool";
 
 	return {
 		GET: GET,

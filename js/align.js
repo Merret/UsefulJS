@@ -1,4 +1,4 @@
-function align(id, mode) {
+function align(id, mode="a") {
 	var elm = document.getElementById(id);
 	elm.style.position = "relative";
 	if (mode = "h") {

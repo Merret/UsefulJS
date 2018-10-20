@@ -1,4 +1,4 @@
-var elm = function () {
+var elm = (function () {
 	var id = function(x) {
 		return document.getElementById(x);
 	}
@@ -11,4 +11,4 @@ var elm = function () {
         NAME: name,
         name: name
 	}
-};
+})();

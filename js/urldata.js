@@ -7,5 +7,6 @@ function urldata(key) {
         a += u.charAt(i);
         ++i;
     }
+    if(u.search(key)==-1) {return -1;}
     return a;
 }

@@ -62,8 +62,12 @@ var xhr = (function () {
         var anita;
         var ann = new XMLHttpRequest();
         ann.open('GET', trg, sync);
-        if(typeof(header) == "object") {
-            
+        if(Array.isArray(header)) {
+            for(var i = 0; i < header.length; i++) {
+                ann.setRequestHeader(header[i][0], header[i][1]);
+            }
+        } else {
+            console.log("xhr.GETwH Error: header format wrong, example: [[header1, value1],[header2, value2]]";
         }
         ann.onload = function () {
             if (this.status === 200) {
@@ -91,6 +95,8 @@ var xhr = (function () {
         put: PUT,
         JSON: JSONG,
         json: JSONG,
+        GETwH: GETwH,
+        getwh: GETwH,
         help: help
     }
 })()

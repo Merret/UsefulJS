@@ -67,7 +67,7 @@ var xhr = (function () {
                 ann.setRequestHeader(header[i][0], header[i][1]);
             }
         } else {
-            console.log("xhr.GETwH Error: header format wrong, example: [[header1, value1],[header2, value2]]";
+            console.log("xhr.GETwH Error: header format wrong, example: [[header1, value1],[header2, value2]]");
         }
         ann.onload = function () {
             if (this.status === 200) {

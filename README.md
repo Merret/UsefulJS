@@ -2,6 +2,7 @@
 A Beta Version.
 ## Updates
 + add userInfo.js
+
 ! update xhr.js - add xhr.JSON, xhr.GETwH
 
 ## CDN

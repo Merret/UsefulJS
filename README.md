@@ -1,14 +1,12 @@
-# UsefulJS - v.0.5
+# UsefulJS - v.0.5.1
 A Beta Version.
 ## Updates
-+ add userInfo.js
-
-! update xhr.js - add xhr.JSON, xhr.GETwH
+! fixed userInfo.js
 
 ## CDN
 ### All in One
 [JSDELIVR CDN](
-https://cdn.jsdelivr.net/combine/gh/Merret/UsefulJS@0.5/js/align.min.js,gh/Merret/UsefulJS@0.5/js/element.min.js,gh/Merret/UsefulJS@0.5/js/xhr.min.js,gh/Merret/UsefulJS@0.5/js/urldata.min.js,gh/Merret/UsefulJS@0.5/js/userInfo.min.js)
+https://cdn.jsdelivr.net/combine/gh/Merret/UsefulJS@0.5/js/align.min.js,gh/Merret/UsefulJS@0.5/js/element.min.js,gh/Merret/UsefulJS@0.5/js/xhr.min.js,gh/Merret/UsefulJS@0.5/js/urldata.min.js,gh/Merret/UsefulJS@0.5.1/js/userInfo.min.js)
 ### align.js
 [JSDELIVR CDN](https://cdn.jsdelivr.net/gh/Merret/UsefulJS@0.5/js/align.min.js)
 ### urldata.js
@@ -18,4 +16,4 @@ https://cdn.jsdelivr.net/combine/gh/Merret/UsefulJS@0.5/js/align.min.js,gh/Merre
 ### element.js
 [JSDELIVR CDN](https://cdn.jsdelivr.net/gh/Merret/UsefulJS@0.5/js/element.min.js)
 ### userInfo.js
-[JSDELIVR CDN](https://cdn.jsdelivr.net/gh/Merret/UsefulJS@0.5/js/userInfo.min.js)
+[JSDELIVR CDN](https://cdn.jsdelivr.net/gh/Merret/UsefulJS@0.5.1/js/userInfo.min.js)

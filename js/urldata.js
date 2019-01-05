@@ -11,3 +11,7 @@ function urldata(key) {
     if(u.search(key)==-1) {return -1;}
     return a;
 }
+function allurldata() {
+    var x = location.protocol + '//' + location.host + location.pathname;
+    return window.location.href.substr(x.length);
+}

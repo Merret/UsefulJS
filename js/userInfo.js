@@ -1,7 +1,7 @@
 var userInfo;
 if(typeof xhr === 'undefined') {
     var script = document.createElement('script');
-    script.src = 'https://cdn.jsdelivr.net/gh/Merret/UsefulJS@0.5.2/js/xhr.min.js';
+    script.src = 'https://cdn.jsdelivr.net/gh/Merret/UsefulJS@0.5.3/js/xhr.min.js';
     script.onload = function() {document.body.onload = function() {getUserInfo();};};
     document.head.appendChild(script);
 } else {

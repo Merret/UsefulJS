@@ -1,7 +1,7 @@
-# UsefulJS - v.0.5.4
+# UsefulJS - v.0.5.5
 A Beta Version.
 ## Updates
-! update userInfo.js
++ userInfo.obo.js (One By One)
 
 ## CDN
 ### All in One
@@ -17,3 +17,5 @@ https://cdn.jsdelivr.net/combine/gh/Merret/UsefulJS@0.5/js/align.min.js,gh/Merre
 [JSDELIVR CDN](https://cdn.jsdelivr.net/gh/Merret/UsefulJS@0.5.4/js/element.min.js)
 ### userInfo.js
 [JSDELIVR CDN](https://cdn.jsdelivr.net/gh/Merret/UsefulJS@0.5.4/js/userInfo.min.js)
+#### userInfo.obo.js
+[JSDELIVR CDN](https://cdn.jsdelivr.net/gh/Merret/UsefulJS@0.5.5/js/userInfo.obo.min.js)
